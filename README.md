@@ -1,1 +1,1 @@
-# Salesforce-Email-Domain-Formuale
+# Salesforce-Email-Domain-Formula
