@@ -1,0 +1,1 @@
+RIGHT({!$Record.Email}, LEN({!$Record.Email}) - FIND("@",{!$Record.Email}) + 1)
